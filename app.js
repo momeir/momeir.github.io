@@ -1,5 +1,5 @@
-const player1 = ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Kylian Mbappé", "Mohamed Salah", "Robert Lewandowski", "Kevin De Bruyne", "Virgil van Dijk", "Jan Oblak", "Manuel Neuer", "N'Golo Kanté", "Harry Kane", "Sadio Mané", "Karim Benzema", "Joshua Kimmich", "Toni Kroos", "Alisson Becker"];
-const player1_img = [];
+const player1 = ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Kylian Mbappé", "Mohamed Salah", "Robert Lewandowski", "Kevin De Bruyne", "Virgil van Dijk", "Jan Oblak", "Manuel Neuer", "N'Golo Kanté", "Harry Kane", "Sadio Mané"];
+const player1_img = ["0C4469D4-6EAE-418F-AE9A-C305E656BF59.png", "4B3136EA-DD47-48A7-B04E-BAB59EBEA9C2.png", "9C61C905-0C62-4AE0-91B5-B55F0923FF91.png", "94B6BEFA-04B8-4CED-93AC-BDF5744F5E4E.png", "98EEB615-4C79-46C8-85AC-5E61B91C7E29.png", "0336E933-44B0-4B02-AB30-8D0129FE503A.png", "422D10A4-3C5F-43C3-A5E9-F50EFDB24128.png", "1022BDBC-C2D8-4D62-9ADB-9DCFF24BEEE8.png", "3216B9A3-0456-40CB-998C-C13FD3BC0077.png", "AFF2107E-236A-4252-826A-293151EA58DF.png", "CB9997FB-4951-404D-A24D-16016FC93727.png", "DD63A13C-43A8-4383-BA2D-0C328EA8CF13.png", "ED1229E8-0EAE-4EF0-9EC9-9E2C81041AC8.png"];
 let club = [];
 let club_name = "club";
 let player;
