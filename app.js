@@ -5,7 +5,7 @@ let club_name = "club";
 let player;
 let player_liste = 1;
 let club_players = 0;
-let credits = 100000000000000000000000;
+let credits = 1000000;
 const pack1_cred = 2500;
 document.getElementById("ncred").innerHTML=credits;
 let player_img = document.getElementById("img_player");
